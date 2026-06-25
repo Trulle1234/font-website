@@ -1,0 +1,20 @@
+html, body {
+    /*font-family: [Font name]*/
+}
+
+h1 {
+    margin-top: 3em;
+    text-align: center;
+}
+
+.get-link {
+    text-align: center;
+}
+
+.main-content {
+    margin-top: 3em;
+}
+
+.how-img {
+    width: 12em;
+}
