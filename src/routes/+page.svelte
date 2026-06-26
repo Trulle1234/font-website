@@ -1,5 +1,5 @@
 <h1>How I made [Font name]</h1>
-<p class="get-link"><a href="/font">Get the font</a></p>
+<p class="page-link"><a href="/font">Get the font</a></p>
 
 <div class="main-container">
     <div class="main-content">
